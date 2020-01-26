@@ -1,0 +1,107 @@
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\source\repos\Polttopallo\Polttopallo\bin\Debug\Polttopallo.exe.config
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\source\repos\Polttopallo\Polttopallo\bin\Debug\Polttopallo.exe
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\source\repos\Polttopallo\Polttopallo\bin\Debug\Polttopallo.pdb
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\source\repos\Polttopallo\Polttopallo\bin\Debug\Pelit.dll
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\source\repos\Polttopallo\Polttopallo\bin\Debug\Pelit.pdb
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\source\repos\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csprojAssemblyReference.cache
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\source\repos\Polttopallo\Polttopallo\obj\Debug\MainWindow.g.cs
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\source\repos\Polttopallo\Polttopallo\obj\Debug\App.g.cs
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\source\repos\Polttopallo\Polttopallo\obj\Debug\Polttopallo_MarkupCompile.cache
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\source\repos\Polttopallo\Polttopallo\obj\Debug\Polttopallo_MarkupCompile.lref
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\source\repos\Polttopallo\Polttopallo\obj\Debug\MainWindow.baml
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\source\repos\Polttopallo\Polttopallo\obj\Debug\Polttopallo.g.resources
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\source\repos\Polttopallo\Polttopallo\obj\Debug\Polttopallo.Properties.Resources.resources
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\source\repos\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csproj.GenerateResource.cache
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\source\repos\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csproj.CoreCompileInputs.cache
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\source\repos\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csproj.CopyComplete
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\source\repos\Polttopallo\Polttopallo\obj\Debug\Polttopallo.exe
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\source\repos\Polttopallo\Polttopallo\obj\Debug\Polttopallo.pdb
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Polttopallo\Polttopallo\bin\Debug\Polttopallo.exe.config
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Polttopallo\Polttopallo\bin\Debug\Polttopallo.exe
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Polttopallo\Polttopallo\bin\Debug\Polttopallo.pdb
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Polttopallo\Polttopallo\bin\Debug\Pelit.dll
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Polttopallo\Polttopallo\bin\Debug\Pelit.pdb
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csprojAssemblyReference.cache
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Polttopallo\Polttopallo\obj\Debug\MainWindow.g.cs
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Polttopallo\Polttopallo\obj\Debug\App.g.cs
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Polttopallo\Polttopallo\obj\Debug\Polttopallo_MarkupCompile.cache
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Polttopallo\Polttopallo\obj\Debug\Polttopallo_MarkupCompile.lref
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Polttopallo\Polttopallo\obj\Debug\MainWindow.baml
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Polttopallo\Polttopallo\obj\Debug\Polttopallo.g.resources
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Polttopallo\Polttopallo\obj\Debug\Polttopallo.Properties.Resources.resources
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csproj.GenerateResource.cache
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csproj.CoreCompileInputs.cache
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csproj.CopyComplete
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Polttopallo\Polttopallo\obj\Debug\Polttopallo.exe
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Polttopallo\Polttopallo\obj\Debug\Polttopallo.pdb
+C:\Users\hanna\Desktop\Polttopallo\Polttopallo\bin\Debug\Polttopallo.exe.config
+C:\Users\hanna\Desktop\Polttopallo\Polttopallo\bin\Debug\Polttopallo.exe
+C:\Users\hanna\Desktop\Polttopallo\Polttopallo\bin\Debug\Polttopallo.pdb
+C:\Users\hanna\Desktop\Polttopallo\Polttopallo\bin\Debug\Pelit.pdb
+C:\Users\hanna\Desktop\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csprojAssemblyReference.cache
+C:\Users\hanna\Desktop\Polttopallo\Polttopallo\obj\Debug\MainWindow.g.cs
+C:\Users\hanna\Desktop\Polttopallo\Polttopallo\obj\Debug\App.g.cs
+C:\Users\hanna\Desktop\Polttopallo\Polttopallo\obj\Debug\Polttopallo_MarkupCompile.cache
+C:\Users\hanna\Desktop\Polttopallo\Polttopallo\obj\Debug\Polttopallo_MarkupCompile.lref
+C:\Users\hanna\Desktop\Polttopallo\Polttopallo\obj\Debug\MainWindow.baml
+C:\Users\hanna\Desktop\Polttopallo\Polttopallo\obj\Debug\Polttopallo.g.resources
+C:\Users\hanna\Desktop\Polttopallo\Polttopallo\obj\Debug\Polttopallo.Properties.Resources.resources
+C:\Users\hanna\Desktop\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csproj.GenerateResource.cache
+C:\Users\hanna\Desktop\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csproj.CoreCompileInputs.cache
+C:\Users\hanna\Desktop\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csproj.CopyComplete
+C:\Users\hanna\Desktop\Polttopallo\Polttopallo\obj\Debug\Polttopallo.exe
+C:\Users\hanna\Desktop\Polttopallo\Polttopallo\obj\Debug\Polttopallo.pdb
+C:\Users\hanna\Desktop\Tehtävä 7\Polttopallo\Polttopallo\bin\Debug\Polttopallo.exe.config
+C:\Users\hanna\Desktop\Tehtävä 7\Polttopallo\Polttopallo\bin\Debug\Polttopallo.exe
+C:\Users\hanna\Desktop\Tehtävä 7\Polttopallo\Polttopallo\bin\Debug\Polttopallo.pdb
+C:\Users\hanna\Desktop\Tehtävä 7\Polttopallo\Polttopallo\bin\Debug\Pelit.dll
+C:\Users\hanna\Desktop\Tehtävä 7\Polttopallo\Polttopallo\bin\Debug\Pelit.pdb
+C:\Users\hanna\Desktop\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csprojAssemblyReference.cache
+C:\Users\hanna\Desktop\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\MainWindow.g.cs
+C:\Users\hanna\Desktop\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\App.g.cs
+C:\Users\hanna\Desktop\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\Polttopallo_MarkupCompile.cache
+C:\Users\hanna\Desktop\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\Polttopallo_MarkupCompile.lref
+C:\Users\hanna\Desktop\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\MainWindow.baml
+C:\Users\hanna\Desktop\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\Polttopallo.g.resources
+C:\Users\hanna\Desktop\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\Polttopallo.Properties.Resources.resources
+C:\Users\hanna\Desktop\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csproj.GenerateResource.cache
+C:\Users\hanna\Desktop\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csproj.CoreCompileInputs.cache
+C:\Users\hanna\Desktop\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csproj.CopyComplete
+C:\Users\hanna\Desktop\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\Polttopallo.exe
+C:\Users\hanna\Desktop\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\Polttopallo.pdb
+C:\Users\hanna\Downloads\Tehtävä_7\Tehtävä 7\Polttopallo\Polttopallo\bin\Debug\Polttopallo.exe.config
+C:\Users\hanna\Downloads\Tehtävä_7\Tehtävä 7\Polttopallo\Polttopallo\bin\Debug\Polttopallo.exe
+C:\Users\hanna\Downloads\Tehtävä_7\Tehtävä 7\Polttopallo\Polttopallo\bin\Debug\Polttopallo.pdb
+C:\Users\hanna\Downloads\Tehtävä_7\Tehtävä 7\Polttopallo\Polttopallo\bin\Debug\Pelit.dll
+C:\Users\hanna\Downloads\Tehtävä_7\Tehtävä 7\Polttopallo\Polttopallo\bin\Debug\Pelit.pdb
+C:\Users\hanna\Downloads\Tehtävä_7\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csprojAssemblyReference.cache
+C:\Users\hanna\Downloads\Tehtävä_7\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\MainWindow.g.cs
+C:\Users\hanna\Downloads\Tehtävä_7\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\App.g.cs
+C:\Users\hanna\Downloads\Tehtävä_7\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\Polttopallo_MarkupCompile.cache
+C:\Users\hanna\Downloads\Tehtävä_7\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\Polttopallo_MarkupCompile.lref
+C:\Users\hanna\Downloads\Tehtävä_7\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\MainWindow.baml
+C:\Users\hanna\Downloads\Tehtävä_7\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\Polttopallo.g.resources
+C:\Users\hanna\Downloads\Tehtävä_7\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\Polttopallo.Properties.Resources.resources
+C:\Users\hanna\Downloads\Tehtävä_7\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csproj.GenerateResource.cache
+C:\Users\hanna\Downloads\Tehtävä_7\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csproj.CoreCompileInputs.cache
+C:\Users\hanna\Downloads\Tehtävä_7\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csproj.CopyComplete
+C:\Users\hanna\Downloads\Tehtävä_7\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\Polttopallo.exe
+C:\Users\hanna\Downloads\Tehtävä_7\Tehtävä 7\Polttopallo\Polttopallo\obj\Debug\Polttopallo.pdb
+C:\Users\hanna\Desktop\Tamagotchi\Polttopallo\Polttopallo\bin\Debug\Polttopallo.exe.config
+C:\Users\hanna\Desktop\Tamagotchi\Polttopallo\Polttopallo\bin\Debug\Polttopallo.exe
+C:\Users\hanna\Desktop\Tamagotchi\Polttopallo\Polttopallo\bin\Debug\Polttopallo.pdb
+C:\Users\hanna\Desktop\Tamagotchi\Polttopallo\Polttopallo\bin\Debug\Pelit.dll
+C:\Users\hanna\Desktop\Tamagotchi\Polttopallo\Polttopallo\bin\Debug\Pelit.pdb
+C:\Users\hanna\Desktop\Tamagotchi\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csprojAssemblyReference.cache
+C:\Users\hanna\Desktop\Tamagotchi\Polttopallo\Polttopallo\obj\Debug\MainWindow.g.cs
+C:\Users\hanna\Desktop\Tamagotchi\Polttopallo\Polttopallo\obj\Debug\App.g.cs
+C:\Users\hanna\Desktop\Tamagotchi\Polttopallo\Polttopallo\obj\Debug\Polttopallo_MarkupCompile.cache
+C:\Users\hanna\Desktop\Tamagotchi\Polttopallo\Polttopallo\obj\Debug\Polttopallo_MarkupCompile.lref
+C:\Users\hanna\Desktop\Tamagotchi\Polttopallo\Polttopallo\obj\Debug\MainWindow.baml
+C:\Users\hanna\Desktop\Tamagotchi\Polttopallo\Polttopallo\obj\Debug\Polttopallo.g.resources
+C:\Users\hanna\Desktop\Tamagotchi\Polttopallo\Polttopallo\obj\Debug\Polttopallo.Properties.Resources.resources
+C:\Users\hanna\Desktop\Tamagotchi\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csproj.GenerateResource.cache
+C:\Users\hanna\Desktop\Tamagotchi\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csproj.CoreCompileInputs.cache
+C:\Users\hanna\Desktop\Tamagotchi\Polttopallo\Polttopallo\obj\Debug\Polttopallo.csproj.CopyComplete
+C:\Users\hanna\Desktop\Tamagotchi\Polttopallo\Polttopallo\obj\Debug\Polttopallo.exe
+C:\Users\hanna\Desktop\Tamagotchi\Polttopallo\Polttopallo\obj\Debug\Polttopallo.pdb

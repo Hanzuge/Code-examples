@@ -1,0 +1,18 @@
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Tehtävä 6\Pelit\Pelit\bin\Debug\Pelit.dll
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Tehtävä 6\Pelit\Pelit\bin\Debug\Pelit.pdb
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Tehtävä 6\Pelit\Pelit\obj\Debug\Pelit.csprojAssemblyReference.cache
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Tehtävä 6\Pelit\Pelit\obj\Debug\Pelit.csproj.CoreCompileInputs.cache
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Tehtävä 6\Pelit\Pelit\obj\Debug\Pelit.dll
+C:\Users\Aki Rönnkvist.LAPTOP-TPE55JDQ\OneDrive - Turun ammattikorkeakoulu\Olio-ohjelmointi\Tehtävä 6\Pelit\Pelit\obj\Debug\Pelit.pdb
+C:\Users\hanna\Desktop\Tehtävä 7\Pelit\bin\Debug\Pelit.dll
+C:\Users\hanna\Desktop\Tehtävä 7\Pelit\bin\Debug\Pelit.pdb
+C:\Users\hanna\Desktop\Tehtävä 7\Pelit\obj\Debug\Pelit.csprojAssemblyReference.cache
+C:\Users\hanna\Desktop\Tehtävä 7\Pelit\obj\Debug\Pelit.csproj.CoreCompileInputs.cache
+C:\Users\hanna\Desktop\Tehtävä 7\Pelit\obj\Debug\Pelit.dll
+C:\Users\hanna\Desktop\Tehtävä 7\Pelit\obj\Debug\Pelit.pdb
+C:\Users\hanna\Desktop\Tamagotchi\Pelit\bin\Debug\Pelit.dll
+C:\Users\hanna\Desktop\Tamagotchi\Pelit\bin\Debug\Pelit.pdb
+C:\Users\hanna\Desktop\Tamagotchi\Pelit\obj\Debug\Pelit.csprojAssemblyReference.cache
+C:\Users\hanna\Desktop\Tamagotchi\Pelit\obj\Debug\Pelit.csproj.CoreCompileInputs.cache
+C:\Users\hanna\Desktop\Tamagotchi\Pelit\obj\Debug\Pelit.dll
+C:\Users\hanna\Desktop\Tamagotchi\Pelit\obj\Debug\Pelit.pdb

@@ -1,0 +1,23 @@
+p {
+	
+}
+body {
+	background-color: pink;
+}
+#av {
+	text-decoration: underline;
+}
+div p {
+	margin-top: 50px
+}
+
+.important p {color: yellow; Background: lime;}
+
+input[type="radio"] {
+  background-color: red;
+  border: 4px solid purple
+  
+  a:hover {
+  color: hotpink;
+}
+}

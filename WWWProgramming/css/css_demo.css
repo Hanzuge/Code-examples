@@ -1,0 +1,12 @@
+p {
+	color: blue;
+}
+body {
+	background-color: pink;
+}
+#av {
+	text-decoration: underline;
+}
+div p {
+	margin-top: 50px
+}
