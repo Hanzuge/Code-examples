@@ -11,7 +11,6 @@ using System.Threading.Tasks;
 using System.Threading;
 using System.Windows.Forms;
 using System.Reflection;
-using PKI.ELSO;
 using System.IO;
 using Levyskanneri;
 using System.Security.Cryptography.X509Certificates;
